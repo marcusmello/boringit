@@ -1,6 +1,6 @@
 # Boringit
 
-Uma de linha de comando, escrita em python, cuja finalidade é abstrair a rotina de uso dos comandos git.
+Ferramenta de linha de comando, escrita em python, cuja finalidade é abstrair a rotina de uso dos comandos git.
 
 ## Instalação
 
