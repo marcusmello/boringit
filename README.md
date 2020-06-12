@@ -48,3 +48,4 @@ Esta versão requer que o desenvolvedor tenha acesso ssh aos repositórios remot
 * [ ] Gerar automaticamente o "*remotes.yml*", caso não exista, a partir de inputs do usuário;
 * [ ] Lidar melhor com outros cenários de init, como repositório não vazios (locais ou remotos);
 * [ ] Estudar a possibilidade de adoção da biblioteca [GitPython](https://github.com/gitpython-developers/GitPython), ou mesmo abandono da boringit se eu me entender bem com a GitPython.
+* [ ] Adicionar [parse](https://docs.python.org/3.3/library/argparse.html) ou reescrever com [click](https://click.palletsprojects.com/en/7.x/) ou similar, a fim de aumentar a usabilidade.
