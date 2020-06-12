@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "boringit"
-version = "0.1.0"
+version = "0.1.1"
 description = "A tool to optimize git Add, Commit and Push routine."
 authors = ["marcusmello <marcus@vintem.tech>"]
 
