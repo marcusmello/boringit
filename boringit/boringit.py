@@ -3,7 +3,7 @@
 #
 # This file is part of `boringit`.
 # Copyright (c) 2020 Marcus Mello
-# Distributed under a BSD-like license. For full terms see the file LICENSE.txt
+# Distributed under a MIT-like license. For full terms see the file LICENSE
 #
 
 """
