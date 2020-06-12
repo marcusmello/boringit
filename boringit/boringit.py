@@ -183,9 +183,12 @@ class BorinGit:
             print("Nothing to do.")
 
 
-if __name__ == "__main__":
-
+def main():
     try:
         getattr(BorinGit(), sys.argv[1])()
     except:
         print("{} is not a boringit valid command.".format(sys.argv[1]))
+
+
+if __name__ == "__main__":
+    main()
